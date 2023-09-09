@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_play</title>
+    <g id="wavv网站-20230907-对话版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="对话页面" transform="translate(-658.000000, -307.000000)">
+            <g id="ic_play" transform="translate(658.000000, 307.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <g id="ic_stop备份" transform="translate(5.000000, 2.000000)" fill="#6D86CE">
+                    <path d="M-1.90010754,15.9996479 C-2.50773318,16.9080486 -1.85820232,18.1333333 -0.758190371,18.1333333 L16.7581904,18.1333333 C17.8582023,18.1333333 18.5077332,16.9080486 17.9001075,15.9996479 L9.14191717,2.74333498 C8.59714934,1.92999945 7.40285066,1.92999945 6.86855914,2.74333498 L-1.90010754,15.9996479 Z" id="路径" transform="translate(8.000000, 10.133333) rotate(90.000000) translate(-8.000000, -10.133333) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

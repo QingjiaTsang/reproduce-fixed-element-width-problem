@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_stop</title>
+    <g id="wavv网站&amp;h5-20230907-对话版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="对话页面" transform="translate(-1013.000000, -251.000000)">
+            <g id="ic_stop" transform="translate(1013.000000, 251.000000)">
+                <circle id="椭圆形" fill="#5964C6" cx="21" cy="21" r="21"></circle>
+                <path d="M15.5749193,24.9997359 C15.1192001,25.6810365 15.6063483,26.6 16.4313572,26.6 L29.5686428,26.6 C30.3936517,26.6 30.8807999,25.6810365 30.4250807,24.9997359 L23.8564379,15.0575012 C23.447862,14.4474996 22.552138,14.4474996 22.1514194,15.0575012 L15.5749193,24.9997359 Z" id="路径" fill="#FFFFFF" transform="translate(23.000000, 20.600000) rotate(90.000000) translate(-23.000000, -20.600000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
